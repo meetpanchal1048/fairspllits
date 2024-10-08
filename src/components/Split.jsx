@@ -51,10 +51,6 @@ function Split({ downloadBill }) {
         downloadBill()
     }
 
-    const getDate = () => {
-
-    }
-
     useEffect(() => {
         let date = new Date();
         let year = date.getUTCFullYear();
@@ -155,6 +151,7 @@ function Split({ downloadBill }) {
                         </ol>
                     </section>
                     <section className="keyWordSection">
+                        <h2>rent split calculator</h2><h2>splitting rent calculator</h2><h2>expenses split</h2>
                         <h2>bill split</h2><h2>split bill</h2><h3>splitwise</h3><h3>split bill online calculator</h3><h4> splitwise online</h4><h4>split the bill</h4><h5>bill split calculator</h5><h5>bill split app</h5>
                         <p>Split the bills with ease & without any login / signup / storing data. Share with friends & family with ease.</p>
                     </section>
